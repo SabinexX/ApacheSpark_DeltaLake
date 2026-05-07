@@ -161,3 +161,35 @@ Canal DataWay BR - YouTube
 Repositório spark-delta
 Repositório spark-iceberg
 Documentação UV
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Deployments
+1
+ github-pages 5 days ago
+Packages
+No packages published
+Publish your first package
+Contributors
+1
+@joojpereira
+joojpereira
+Languages
+Jupyter Notebook
+100.0%
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Priv
